@@ -1,13 +1,13 @@
 <template>
   <div class="container-fluid">
     <div class="row" style="padding-top: 250px;">
-      <h2 class="text-center my-4">REKAP DATA PER BULAN</h2>
+      <h2 class="text-center my-4" style="color: black;">REKAP DATA PER BULAN</h2>
       <div class="col-lg-12">
         <nuxt-link to="/admin">
           <button
             type="button"
             class="btn btn-lg rounded-5 px-5 bg-secondary text-white"
-            style="float: right; margin-bottom: 15px"
+            style=" margin-bottom: 15px"
           >
             KEMBALI
           </button>
