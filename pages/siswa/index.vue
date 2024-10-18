@@ -18,7 +18,7 @@
                     v-model="keyword"
                     type="search"
                     class="form-control rounded-5"
-                    placeholder="cari siapa?"
+                    placeholder="cari siswa"
                     />
                 </form>
             </div>
