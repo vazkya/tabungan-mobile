@@ -167,6 +167,7 @@ onMounted(() => {
 h3{
     text-align:center ;
     margin-bottom: 20px;
+    color: black;
 }
 .form-group{
     display: flex;
@@ -174,6 +175,7 @@ h3{
     align-items:center ;
     margin-bottom: 15px;
     width: 100%;
+    color: black;
 }
 .form-group label {
     flex: 1;
