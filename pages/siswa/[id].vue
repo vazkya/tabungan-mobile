@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
         <div class="col-lg-12" style="padding-top: 250px;">
-            <h2 class="text-center my-4" style="color: black">RIWAYAT SISWA</h2>
+            <h2 class="my-4" style="color: black">RIWAYAT SISWA</h2>
             <nuxt-link to="./">
             <button
                 type="button"
