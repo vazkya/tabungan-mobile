@@ -5,9 +5,9 @@
       </div>
   
       <div class="col-lg-3 mt-3 ms-4">
-        <h4>PERPUS DIGITAL</h4>
-        <div>SMKN 4 Tasikmalaya</div>
-        <address>JL.Depok, Sukamenak, Purbaratu</address>
+        <h4>TABUNGAN</h4>
+        <div>XII PPLG 2</div>
+        <address>SMKN 4 TASIKMALAYA</address>
       </div>
     </div>
   </template>
