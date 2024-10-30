@@ -52,6 +52,7 @@
 </template>
 
 <script setup>
+useHead({title: "rekap", meta: [{nama: "rekap", content: "HALAMAN REKAP"}]});
 import { ref, onMounted } from "vue";
 const supabase = useSupabaseClient();
 const rekapData = ref([]);
