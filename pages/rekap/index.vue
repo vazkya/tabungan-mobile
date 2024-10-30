@@ -1,6 +1,6 @@
 <template>
   <div class="container-fluid">
-    <div class="row" style="padding-top: 100px;">
+    <div class="row" style="padding-top: 250px;">
       <h2 class="my-4" style="color: black;">REKAP DATA PER BULAN</h2>
       <div class="col-lg-12">
         <nuxt-link to="/admin">
