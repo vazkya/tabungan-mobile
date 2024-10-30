@@ -47,6 +47,7 @@
 </template>
 
 <script setup>
+useHead({title: "menu_admin", meta: [{nama: "menu_admin", content: "HALAMAN MENU ADMIN"}]});
 definePageMeta({
     middleware: 'auth'
 });
